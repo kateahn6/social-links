@@ -1,4 +1,5 @@
 ## Social Links Profile
+This is a solution to the [Social Links Profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ### The Challenge
 >In this small project, you'll build out your social link-sharing profile. You can even personalize it and use it to share all your social profiles!
@@ -17,3 +18,6 @@
 
 ### Useful Resources
 - https://www.w3schools.com/ - This helped me with learning CSS styles to adjust the margins for the button designs and adding the hover animation on top of the buttons
+
+## Author
+- Frontend Mentor - https://www.frontendmentor.io/profile/kateahn6
