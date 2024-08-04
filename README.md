@@ -17,7 +17,7 @@ This is a solution to the [Social Links Profile](https://www.frontendmentor.io/c
 - CSS
 
 ### Useful Resources
-- [w3schools](https://www.w3schools.com/) - This helped me with learning CSS styles to adjust the margins for the button designs and adding the hover animation on top of the buttons
+- [w3schools](https://www.w3schools.com/) helped me with learning CSS styles to adjust the margins for the button designs and adding the hover animation on top of the buttons
 
 ## Author
 - [Frontend Mentor](https://www.frontendmentor.io/profile/kateahn6)
