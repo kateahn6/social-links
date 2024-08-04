@@ -8,8 +8,8 @@ This is a solution to the [Social Links Profile](https://www.frontendmentor.io/c
 ![preview](https://github.com/user-attachments/assets/fe9263d1-8986-4ecb-b00f-b47e1c3cdaf2)
 
 ### Links
-- Live Site URL: https://github.com/kateahn6/social-links-profile
-- Solution URL: https://lighthearted-alpaca-0e9762.netlify.app/ 
+- [GitHub Page](https://github.com/kateahn6/social-links-profile)
+- [Netlify](https://lighthearted-alpaca-0e9762.netlify.app/)
 
 ## My process
 ### Built with
@@ -17,7 +17,7 @@ This is a solution to the [Social Links Profile](https://www.frontendmentor.io/c
 - CSS
 
 ### Useful Resources
-- https://www.w3schools.com/ - This helped me with learning CSS styles to adjust the margins for the button designs and adding the hover animation on top of the buttons
+- [w3schools](https://www.w3schools.com/) - This helped me with learning CSS styles to adjust the margins for the button designs and adding the hover animation on top of the buttons
 
 ## Author
-- Frontend Mentor - https://www.frontendmentor.io/profile/kateahn6
+- [Frontend Mentor](https://www.frontendmentor.io/profile/kateahn6)
