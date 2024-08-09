@@ -2,7 +2,11 @@
 This is a solution to the [Social Links Profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ### The Challenge
->In this small project, you'll build out your social link-sharing profile. You can even personalize it and use it to share all your social profiles!
+>Your challenge is to build out this social links profile and get it looking as close to the design as possible.
+>
+>Your users should be able to:
+>
+> - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
 ![preview](https://github.com/user-attachments/assets/fe9263d1-8986-4ecb-b00f-b47e1c3cdaf2)
